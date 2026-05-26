@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24&height=160&section=header&text=Gautam%20Mehendale&fontColor=ffffff&fontSize=46&fontAlignY=55&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20MS%20CS%20%40%20USC&descAlignY=76&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Gautam%20Mehendale&fontColor=ffffff&fontSize=50&fontAlignY=55&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20MS%20CS%20%40%20USC&descAlignY=75&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Building+distributed+systems+in+Go+%F0%9F%94%A7;Wiring+LLMs+into+real+products+%F0%9F%A4%96;3D+brain+MRI+synthesis+%40+USC+Neuroimaging+%F0%9F%A7%A0;2%C3%97+published+researcher+%E2%80%94+Springer+%F0%9F%93%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=640&lines=Building+distributed+systems+in+Go+%F0%9F%94%A7;Wiring+LLMs+into+real+products+%F0%9F%A4%96;3D+brain+MRI+synthesis+%40+USC+Neuroimaging+%F0%9F%A7%A0;2%C3%97+published+researcher+%E2%80%94+Springer+%F0%9F%93%84" alt="Typing SVG" />
 
 <br/>
 
@@ -12,18 +12,24 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautammehendale2002/)
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautammehendale2002@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=gautammehendale&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
 ## 👨‍💻 About Me
 
-- 🎓 **MS Computer Science** @ USC Viterbi School of Engineering · GPA 3.81 · May 2026
-- 🔬 **ML Engineer** @ USC Neuroimaging Institute → 3D brain MRI synthesis via RevGAN, Latent Diffusion Models, CycleGAN
-- 🚀 Built **[Dispatch](https://dispatch-beryl.vercel.app)** — production-grade Go task queue · ~1,000 jobs/sec · p99 < 3ms
-- ⚔️ Built **[CodeArena](https://codearena-zeta.vercel.app)** — real-time competitive programming platform with Docker-sandboxed execution
-- 📚 2× published researcher — Springer (XAI-driven VR pain therapy · Multilingual transcription)
-- 📍 Los Angeles, CA
+🎓 **MS CS @ USC Viterbi** · GPA 3.81 · May 2026  
+🔬 **ML Engineer @ USC Neuroimaging** → RevGAN · LDM · CycleGAN  
+🚀 **Dispatch** — Go task queue · ~1K jobs/sec · p99 < 3ms  
+⚔️ **CodeArena** — real-time competitive programming platform  
+📚 2× published researcher — Springer  
+📍 Los Angeles, CA
+
+<br/><br/><br/>
 
 ---
 
@@ -39,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
-`HuggingFace` &nbsp; `LangChain` &nbsp; `RAG` &nbsp; `Pinecone` &nbsp; `YOLO` &nbsp; `MediaPipe` &nbsp; `Generative AI`
+`HuggingFace` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Pinecone` &nbsp;·&nbsp; `YOLO` &nbsp;·&nbsp; `MediaPipe` &nbsp;·&nbsp; `Generative AI`
 
 **Frontend & Backend**
 
@@ -57,11 +63,54 @@
 
 <div align="center">
 
-[![CodeArena](https://github-readme-stats.vercel.app/api/pin/?username=gautammehendale&repo=codearena&theme=tokyonight&hide_border=true)](https://github.com/gautammehendale/codearena)&nbsp;&nbsp;
-[![Dispatch](https://github-readme-stats.vercel.app/api/pin/?username=gautammehendale&repo=dispatch&theme=tokyonight&hide_border=true)](https://github.com/gautammehendale/dispatch)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![AskMyCode](https://github-readme-stats.vercel.app/api/pin/?username=gautammehendale&repo=AskMyCode&theme=tokyonight&hide_border=true)](https://github.com/gautammehendale/AskMyCode)&nbsp;&nbsp;
-[![iOS Weather](https://github-readme-stats.vercel.app/api/pin/?username=gautammehendale&repo=iOS-Weather-Search-App&theme=tokyonight&hide_border=true)](https://github.com/gautammehendale/iOS-Weather-Search-App)
+### ⚔️ CodeArena
+Real-time competitive programming platform with **Docker-sandboxed** code execution, **WebSocket** live judging, AI-generated problems via Groq, and O(log n) Redis leaderboards.
+
+**Stack:** Next.js · Node.js · Redis · Docker · PostgreSQL · WebSockets
+
+[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/codearena)
+[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://codearena-zeta.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Dispatch
+Production-grade **distributed task queue** in Go — 4-tier priority scheduling, worker pool, exponential backoff, DLQ, and real-time React dashboard.
+
+**Stack:** Go · Redis · PostgreSQL · React · WebSockets · Docker
+
+[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/dispatch)
+[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://dispatch-beryl.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AskMyCode
+**RAG-powered** codebase assistant — semantic search over any GitHub repo using LangChain, OpenAI, and Pinecone vector store with sub-1s responses.
+
+**Stack:** Next.js · TypeScript · LangChain · OpenAI · Pinecone
+
+[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/AskMyCode)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌤️ iOS Weather App
+Cross-platform weather app — **native iOS** (Swift/SwiftUI) + web platform sharing a MongoDB Atlas backend with real-time forecasts and CoreLocation.
+
+**Stack:** Swift · SwiftUI · React · Node.js · MongoDB · Google Cloud
+
+[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/iOS-Weather-Search-App)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -71,13 +120,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gautammehendale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gautammehendale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautammehendale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautammehendale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=gautammehendale&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com?user=gautammehendale&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -95,6 +144,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer"/>
 
 </div>
