@@ -72,9 +72,7 @@ Real-time competitive programming platform with **Docker-sandboxed** code execut
 
 **Stack:** Next.js · Node.js · Redis · Docker · PostgreSQL · WebSockets
 
-[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/codearena)
-[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://codearena-nine-sooty.vercel.app)
-[![Demo Video](https://img.shields.io/badge/Demo-Video-%23FF0000.svg?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bowfzS1J3SHeanETbJoV3AIIK-i18Nkl/view?usp=sharing)
+[🌐 Live Demo](https://codearena-nine-sooty.vercel.app) &nbsp;·&nbsp; [📹 Demo Video](https://drive.google.com/file/d/1bowfzS1J3SHeanETbJoV3AIIK-i18Nkl/view?usp=sharing) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/codearena)
 
 </td>
 <td width="50%" valign="top">
@@ -84,8 +82,7 @@ Production-grade **distributed task queue** in Go — 4-tier priority scheduling
 
 **Stack:** Go · Redis · PostgreSQL · React · WebSockets · Docker
 
-[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/dispatch)
-[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://dispatch-beryl.vercel.app)
+[🌐 Live Demo](https://dispatch-beryl.vercel.app) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/dispatch)
 
 </td>
 </tr>
@@ -97,8 +94,7 @@ Production-grade **distributed task queue** in Go — 4-tier priority scheduling
 
 **Stack:** Next.js · TypeScript · LangChain · OpenAI · Pinecone
 
-[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/AskMyCode)
-[![Demo](https://img.shields.io/badge/Demo-%23FF0000.svg?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Bv3oI0EKaRt_QmZ62RPTqaLa2pZ8WNLi/view)
+[📹 Demo Video](https://drive.google.com/file/d/1Bv3oI0EKaRt_QmZ62RPTqaLa2pZ8WNLi/view) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/AskMyCode)
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +104,7 @@ Cross-platform weather app — **native iOS** (Swift/SwiftUI) + web platform sha
 
 **Stack:** Swift · SwiftUI · React · Node.js · MongoDB · Google Cloud
 
-[![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/iOS-Weather-Search-App)
+[🎬 Demo Video](https://github.com/gautammehendale/iOS-Weather-Search-App/raw/main/WeatherApp_Demo.mp4) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/iOS-Weather-Search-App)
 
 </td>
 </tr>
@@ -121,12 +117,6 @@ Cross-platform weather app — **native iOS** (Swift/SwiftUI) + web platform sha
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gautammehendale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautammehendale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=gautammehendale&theme=tokyonight&hide_border=true" height="170"/>
 
