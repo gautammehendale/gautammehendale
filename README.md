@@ -114,22 +114,6 @@ Cross-platform weather app — **native iOS** (Swift/SwiftUI) + web platform sha
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gautammehendale&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautammehendale&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&color=818cf8&line=6366f1&point=ffffff" width="95%"/>
-</div>
-
----
-
 <div align="center">
 
 *"The best way to predict the future is to build it."*
