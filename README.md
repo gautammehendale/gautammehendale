@@ -82,7 +82,7 @@ Production-grade **distributed task queue** in Go — 4-tier priority scheduling
 
 **Stack:** Go · Redis · PostgreSQL · React · WebSockets · Docker
 
-[🌐 Live Demo](https://dispatch-beryl.vercel.app) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/dispatch)
+[🌐 Live Demo](https://dispatch-beryl.vercel.app) &nbsp;·&nbsp; [📹 Demo Video](https://drive.google.com/file/d/1y13vL6driaw2cRXoksgF46W_uX2wOYqE/view?usp=sharing) &nbsp;·&nbsp; [💻 Code](https://github.com/gautammehendale/dispatch)
 
 </td>
 </tr>
