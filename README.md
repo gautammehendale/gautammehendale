@@ -73,7 +73,8 @@ Real-time competitive programming platform with **Docker-sandboxed** code execut
 **Stack:** Next.js · Node.js · Redis · Docker · PostgreSQL · WebSockets
 
 [![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/codearena)
-[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://codearena-zeta.vercel.app)
+[![Live](https://img.shields.io/badge/Live-Demo-%2322C55E.svg?style=flat-square&logo=vercel&logoColor=white)](https://codearena-nine-sooty.vercel.app)
+[![Demo Video](https://img.shields.io/badge/Demo-Video-%23FF0000.svg?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bowfzS1J3SHeanETbJoV3AIIK-i18Nkl/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
@@ -97,6 +98,7 @@ Production-grade **distributed task queue** in Go — 4-tier priority scheduling
 **Stack:** Next.js · TypeScript · LangChain · OpenAI · Pinecone
 
 [![GitHub](https://img.shields.io/badge/Code-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/gautammehendale/AskMyCode)
+[![Demo](https://img.shields.io/badge/Demo-%23FF0000.svg?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Bv3oI0EKaRt_QmZ62RPTqaLa2pZ8WNLi/view)
 
 </td>
 <td width="50%" valign="top">
