@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Gautam%20Mehendale&fontColor=ffffff&fontSize=50&fontAlignY=55&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20MS%20CS%20%40%20USC&descAlignY=75&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=680&lines=Full-Stack+Dev+%C2%B7+Next.js+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Swift+%F0%9F%9A%80;Building+distributed+systems+in+Go+%E2%9A%A1;Shipping+LLM-powered+products+%F0%9F%A4%96;ML+Engineer+%40+USC+Neuroimaging+%F0%9F%A7%A0;2%C3%97+published+researcher+%E2%80%94+Springer+%F0%9F%93%84;MS+CS+%40+USC+Viterbi+%C2%B7+GPA+3.81+%C2%B7+May+2026+%F0%9F%8E%93;Open+to+Full-Time+SWE+%2F+MLE+roles+%C2%B7+May+2026+%F0%9F%91%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=680&lines=Full-Stack+Dev+%C2%B7+Next.js+%C2%B7+Go+%C2%B7+Node.js+%C2%B7+Swift+%F0%9F%9A%80;Building+distributed+systems+in+Go+%E2%9A%A1;Shipping+LLM-powered+products+%F0%9F%A4%96;ML+Engineer+%40+USC+Neuroimaging+%F0%9F%A7%A0;2%C3%97+published+researcher+%E2%80%94+Springer+%F0%9F%93%84;MS+CS+%40+USC+Viterbi+%C2%B7+GPA+3.82+%C2%B7+May+2026+%F0%9F%8E%93;Open+to+Full-Time+SWE+%2F+MLE+roles+%C2%B7+May+2026+%F0%9F%91%80" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **MS CS @ USC Viterbi** · GPA 3.81 · May 2026  
+🎓 **MS CS @ USC Viterbi** · GPA 3.82 · May 2026  
 🔬 **ML Engineer @ USC Neuroimaging** → RevGAN · LDM · CycleGAN  
 🚀 **Dispatch** — Go task queue · ~1K jobs/sec · p99 < 3ms  
 ⚔️ **CodeArena** — real-time competitive programming platform  
